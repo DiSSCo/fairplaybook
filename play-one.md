@@ -1,6 +1,6 @@
 ---
 title: "Play One: Creating and Collecting Data"
-parent: "DiSSCo FAIR Playbook"
+parent: "About the Playbook Template"
 nav_order: 2
 ---
 
