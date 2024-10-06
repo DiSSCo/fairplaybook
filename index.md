@@ -1,8 +1,8 @@
 ---
-layout: default
 title: About the Playbook Template
 has_children: true
 nav_order: 1
+nav_exclude: false
 ---
 
 ## About this Playbook Template
@@ -42,3 +42,5 @@ Much like the [FAIR Cookbook](https://faircookbook.elixir-europe.org/), this pla
 ### Sharing Your Playbook
 
 Once customized, your organization can share its own version of the playbook with internal teams, collaborators, or publicly on GitHub to foster knowledge exchange on FAIR data management practices.
+
+The code for the Playbook is available in the DiSSCo [Github](https://github.com/DiSSCo/fairplaybook/)
