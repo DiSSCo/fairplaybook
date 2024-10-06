@@ -4,3 +4,5 @@ search_enabled: true
 description: DiSSCo FAIR Playbook
 color_scheme: DiSSCotheme
 logo: "images/DiSSCo.png"
+footer:
+  custom: footer_custom.html
