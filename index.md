@@ -29,14 +29,21 @@ The playbook provides a flexible structure that you can **adapt** to your organi
 4. **Leverage as a Training Resource**  
    Use this playbook as a learning tool for training staff and new project members on the importance of FAIR principles and the specifics of your data management policies.
 
+5. **Example Plays**
+This examples are designed for anyone involved with research data – from producing, using data, and supporting any projects that involve research data and other digital objects. This playbook should help:
+   - Improve understanding of FAIR principles and requirements from various stakeholders
+(publishers, funders, project consortium etc.).
+   - Provide consistent guidelines across different projects, subdomains and data types.
+   - Provide a mechanism to create a living and agile playbook for Naturalis so we can adapt to new methods, data types, and technologies.
+
+
 ### Inspiration from the FAIR Cookbook
 
 Much like the [FAIR Cookbook](https://faircookbook.elixir-europe.org/), this playbook follows a **"recipe" approach**, guiding you step-by-step through different stages of research data management. Each "Play" provides you with:
 
 - **Clear, actionable steps** for tasks like data creation, preservation, or sharing
-- **When to use** when to use this play. 
+- **When to use**  clearly articulate when each play should be utilized in the research data management process
 - **Key considerations** to ensure compliance with FAIR principles
-- **
 - **Links to resources** and external tools to help you along the way
 
 ### Sharing Your Playbook
