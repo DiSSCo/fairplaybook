@@ -19,7 +19,7 @@ The playbook provides a flexible structure that you can **adapt** to your organi
    You can start by forking or cloning this repository to your own GitHub account or download it directly for use within your organization.
 
 2. **Edit the Template to Suit Your Needs**  
-   - Modify or expand the existing "Plays" to reflect your organization's data management processes and guidelines.
+   - Modify (based on the audience in mind) or expand the existing "Plays" to reflect your organization's data management processes and guidelines.
    - Customize the resources, examples, and workflows to match the tools, repositories, and policies used by your team.
    - Add or remove steps based on the types of data your organization manages.
 
@@ -49,5 +49,10 @@ Much like the [FAIR Cookbook](https://faircookbook.elixir-europe.org/), this pla
 ### Sharing Your Playbook
 
 Once customized, your organization can share its own version of the playbook with internal teams, collaborators, or publicly on GitHub to foster knowledge exchange on FAIR data management practices.
+
+### Acknowledgement 
+The initial version of this playbook was created for [Naturalis Biodiversity Center's](https://www.naturalis.nl/en) internal Research Data Management and FAIR implementation initiative. The following people were involved in the process:
+Sharif Islam, Niels Raes, Elza Duijm, Martin Rücklin, Chantal Huijbers, Arjan Schieven, Rutger Vos
+
 
 The code for the Playbook is available in the DiSSCo [Github](https://github.com/DiSSCo/fairplaybook/)
