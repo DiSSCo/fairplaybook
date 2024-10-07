@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 ## Play One: Processing and interpreting data
+
 ### When to use this Play? 
 
 - Before finishing the project
@@ -28,13 +29,10 @@ sharing and preserving?
 
 ### Resources related to this Play 03
 
-
-1. https://www.narcis.nl/search/coll/dataset/Language/en
-2. https://www.surf.nl/en/secure-long-term-storage-with-data-archive
-3. Scientific_needs_for_data_preservation
+1. [https://www.surf.nl/en/secure-long-term-storage-with-data-archive](SURF) -- long term data storage service
+2.[Historical Scientific Analog Data: Life Sciences Faculty’s Perspectives on Management, Reuse and Preservation] (https://doi.org/10.5334/dsj-2020-051)
 
 ### Common pitfalls to avoid for Play 03
-
 
 1. Backup is not the same as archiving.
 2. Not all repositories are created and operated equally. Check policies and services.
