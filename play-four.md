@@ -26,25 +26,21 @@ nav_order: 2
 ### Resources related to this Play 04
 
 
-1. https://fairsharing.org/
-2. B2SHARE
+1. [https://fairsharing.org/]FAIRsharing
+2. [B2SHARE](https://b2share.eudat.eu/)
 3. To search for a suitable repository for your research data you can visit
-re3data.org, which is a global registry of research data repositories from different academic disciplines.
-4. Publisher’s Guide to Open Data Licensing – The ODI
-5. Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments
-6. Licensing for Research Data
-7. Operationalizing the CARE and FAIR Principles for Indigenous data futures
+[re3data.org](https://www.re3data.org/), which is a global registry of research data repositories from different academic disciplines.
+4.[Publisher’s Guide to Open Data Licensing – The ODI](https://theodi.org/insights/guides/publishers-guide-to-open-data-licensing/)
+5.[Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments](https://doi.org/10.35035/doc-5xdm-8762)
+6.[Licensing for Research Data](https://playbook.cd2h.org/en/latest/chapters/chapter_1.html)
+7. [Operationalizing the CARE and FAIR Principles for Indigenous data futures](https://doi.org/10.1038/s41597-021-00892-0)
 
 ### Common pitfalls to avoid for Play 04
-
-1. FAIR and Open are not the same thing. Data can be closed but
-still be FAIR.
-2. Not all repositories are created and operated equally.Check
-policies and services.
+ 
+1. FAIR and Open are not the same thing. Data can be closed but still be FAIR.
+2. Not all repositories are created and operated equally. Check policies and services.
 3. Start documentation earlier in the process
-4. Test different access scenarios and report (to the repository
-maintainers) if you notice any problems with data submission and
-access.
+4. Test different access scenarios and report (to the repository maintainers) if you notice any problems with data submission and access.
 
 
 [Return to Home](index.md)
