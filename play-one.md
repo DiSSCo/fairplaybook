@@ -15,10 +15,10 @@ nav_order: 2
 - Identify storage needs and data organization.
 - Think about metadata requirements and new data types.
 ### Resources related to this Play 01
-1. DMP Wizard: DS Wizard
-2. Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments
+1. DMP Wizard: [DS Wizard](https://researchers.ds-wizard.org/)
+2. [Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments](https://doi.org/10.35035/doc-5xdm-8762)
 3. [TDWG Data Standards](https://www.tdwg.org/standards/) 
-4. BiodivERsA: Guidance document on data management, open data, and the production of Data Management Plans
+4. [BiodivERsA: Guidance document on data management, open data, and the production of Data Management Plans](https://www.biodiversa.org/1677)
 
 ### Common pitfalls to avoid for Play 01
 1. Start early with the planning and DMP writing.
