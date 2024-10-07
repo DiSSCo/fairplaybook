@@ -24,10 +24,9 @@ help?
 
 ### Resources related to this Play 02
 
- A Guide to Environmental DNA (eDNA) by Biomeme
-2. Biodiversity Data Use
-3. Versioning Data Is About More than Revisions: A Conceptual Framework and Proposed Principles
-4. Version control – FAIR in (biological) practice
+1. GBIF guide: [Biodiversity Data Use](https://docs.gbif.org/course-data-use/en/r.html)
+2. [Versioning Data Is About More than Revisions: A Conceptual Framework and Proposed Principles](http://doi.org/10.5334/dsj-2021-012)
+3. [Version control – FAIR in (biological) practice](https://carpentries-incubator.github.io/fair-bio-practice/11-version-control/index.html)
 
 ### Common pitfalls to avoid for Play 02
 1. Plan ahead for the resources you need to work with your data.
