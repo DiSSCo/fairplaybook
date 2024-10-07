@@ -26,9 +26,9 @@ Do legacy data need to be captured? Are there non digitised data sources?
 ### Resources related to this Play 05
 
 
-1. Data Stewardship for Open Science
-2. Understanding Reproducibility and Replicability
-3. How to Use OpenRefine to Clean Your Data | Tutorial | UC Berkeley
+1. [Data Stewardship for Open Science](https://researchers.ds-wizard.org/book-references/quc)
+2. [Understanding Reproducibility and Replicability](https://www.ncbi.nlm.nih.gov/books/NBK547546/)
+3. [How to Use OpenRefine to Clean Your Data | Tutorial | UC Berkeley](https://multimedia.journalism.berkeley.edu/tutorials/openrefine/)
 
 ### Common pitfalls to avoid for Play 05
 
