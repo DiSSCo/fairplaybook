@@ -1,7 +1,7 @@
 ---
 title: "More Resources"
 parent: "About the Playbook Template"
-nav_order: 2
+nav_order: 6
 ---
 
 Links to a few more resources
