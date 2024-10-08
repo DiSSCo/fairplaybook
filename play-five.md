@@ -1,7 +1,7 @@
 ---
 title: "Play Five: Re-using data"
 parent: "About the Playbook Template"
-nav_order: 2
+nav_order: 5
 ---
 
 ## Play Five: Re-using
