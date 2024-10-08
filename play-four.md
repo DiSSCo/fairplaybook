@@ -1,7 +1,7 @@
 ---
 title: "Play Four: Giving access to data"
 parent: "About the Playbook Template"
-nav_order: 2
+nav_order: 4
 ---
 
 ## Play Four: Giving access to data
