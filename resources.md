@@ -6,7 +6,7 @@ nav_order: 7
 
 Links to a few more resources
 
-1. [RDNL - Essentials 4 Data Support](https://datasupport.researchdata.nl/en/start-the-course)
+1. [RDNL - Essentials 4 Data Support](https://researchdata.nl/en/training-2/)
 2. [23 Things for research data management](https://23things.sites.uu.nl/)
 3. [Guide for Reproducible Research — The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
 4. [Research Data Management Kit](https://rdmkit.elixir-europe.org/)
