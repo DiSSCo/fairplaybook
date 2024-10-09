@@ -29,8 +29,8 @@ sharing and preserving?
 
 ### Resources related to this Play 03
 
-1. [https://www.surf.nl/en/secure-long-term-storage-with-data-archive](SURF) -- long term data storage service
-2.[Historical Scientific Analog Data: Life Sciences Faculty’s Perspectives on Management, Reuse and Preservation] (https://doi.org/10.5334/dsj-2020-051)
+1. [https://www.surf.nl/en/services/data-archive](SURF) -- long term data storage service.
+2. [Historical Scientific Analog Data: Life Sciences Faculty’s Perspectives on Management, Reuse and Preservation(https://doi.org/10.5334/dsj-2020-051).
 
 ### Common pitfalls to avoid for Play 03
 
