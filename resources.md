@@ -21,4 +21,4 @@ Links to a few more resources
 13. Data Publishing Guide -- [Pangaea](https://www.pangaea.de/submit/#tutorial)
 14. [FAIR and CARE data principles](https://mackenziedatastream.ca/en/article/fair-and-care-data-principles)
 15. [Biodiversity Knowledge Hub](https://biodiversityknowledgehub.eu/)
-16.[ Open Biodiversity Knowledge Management Systems](https://openbiodiv.net/)
+16. [ Open Biodiversity Knowledge Management Systems](https://openbiodiv.net/)
