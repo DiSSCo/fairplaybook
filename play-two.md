@@ -4,7 +4,7 @@ parent: "About the Playbook Template"
 nav_order: 2
 ---
 
-## Play One: Processing and interpreting data
+## Play Two: Processing and interpreting data
 ### When to use this Play? 
 - After data has been collected and you are ready for the next step
 - When manual or automated data curation and fixing is needed
