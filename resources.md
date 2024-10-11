@@ -22,4 +22,5 @@ Links to a few more resources
 14. Data Publishing Guide -- [Pangaea](https://www.pangaea.de/submit/#tutorial)
 15. [FAIR and CARE data principles](https://mackenziedatastream.ca/en/article/fair-and-care-data-principles)
 16. [Biodiversity Knowledge Hub](https://biodiversityknowledgehub.eu/)
-17. [ Open Biodiversity Knowledge Management Systems](https://openbiodiv.net/)
+17. [Open Biodiversity Knowledge Management Systems](https://openbiodiv.net/)
+18. [The Turing Way](https://book.the-turing-way.org/index.html): handbook to reproducible, ethical and collaborative data science.
