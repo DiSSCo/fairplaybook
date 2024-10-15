@@ -19,6 +19,7 @@ nav_order: 2
 2. [Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments](https://doi.org/10.35035/doc-5xdm-8762)
 3. [TDWG Data Standards](https://www.tdwg.org/standards/) 
 4. [BiodivERsA: Guidance document on data management, open data, and the production of Data Management Plans](https://www.biodiversa.org/1677)
+5. [A hands-on guide to FAIR and structured ecological data](https://lter-life.github.io/FDFDT-Manual/)
 
 ### Common pitfalls to avoid for Play 01
 1. Start early with the planning and DMP writing.
