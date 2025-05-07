@@ -19,7 +19,7 @@ The playbook provides a flexible structure that you can **adapt** to your organi
    You can start by forking or cloning this repository to your own GitHub account or download it directly for use within your organization.
 
 2. **Edit the Template to Suit Your Needs**  
-   - Modify (based on the audience in mind) or expand the existing "Plays" to reflect your organization's data management processes and guidelines. For instance, this template can be used to create a playbook based on the Herbarium Data Management Plan (authoried by The Meise Botanic Garden: [https://doi.org/10.3897/rio.10.e124288](https://doi.org/10.3897/rio.10.e124288))
+   - Modify (based on the audience in mind) or expand the existing "Plays" to reflect your organization's data management processes and guidelines. For instance, this template can be used to create a playbook based on the Herbarium Data Management Plan (by The Meise Botanic Garden: [https://doi.org/10.3897/rio.10.e124288](https://doi.org/10.3897/rio.10.e124288))
    - Customize the resources, examples, and workflows to match the tools, repositories, and policies used by your team.
    - Add or remove steps based on the types of data your organization manages.
 
